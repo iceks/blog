@@ -2,4 +2,4 @@ about 页面
 
 Go static blog test
 
-bre4k
+bre4k //1529
