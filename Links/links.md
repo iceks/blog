@@ -1,3 +1,5 @@
+<h2>和大神们的友情链接</h2>
+
 <a href="http://www.inbreak.net">kxlzx的blog</a><br />
 顺便说一下你如果你看到，请更新一下博客和我的博客链接地址<br />
 
