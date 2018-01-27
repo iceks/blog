@@ -1,7 +1,7 @@
 <h2>和大神们的友情链接</h2>
 
 <a href="http://www.inbreak.net">kxlzx的blog</a><br />
-顺便说一下你如果你看到，请更新一下博客和我的博客链接地址<br />
+顺便说一下你如果你还写博客的话，更新一下你博客内容和我博客的链接，2333<br />
 <br />
 <a href="http://lightless.cn">lightless</a><br />
 最皮二次元技术博客，666<br />
