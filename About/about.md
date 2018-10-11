@@ -3,10 +3,11 @@
  <br/>
 <h2>bk7477890</h2>
  <br/>
- 我叫张作裕
+ 姓名：张作裕
  <br/>
 快30岁的细致油腻中年老男人 <br/>
-工作单位：shiqiao#meili-inc.com(美丽联合集团-石乔) <br/>
+//（2018年5月前）shiqiao#meili-inc.com(美丽联合集团-石乔) <br/>
+不法/bufa，@alibaba-inc @dingtalk<br/>
 信息安全领域 <br/>
  <br/> <br/>
  微博：<a href="https://weibo.com/u/1251199521" target="_black" >@bre4k</a>
