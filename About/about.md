@@ -17,5 +17,5 @@
  github：在首页上面有个链接，没有什么东西。
  <br/>
 <blockquote>
-<p>老了老三十了<a href="javascript:alert('是的')">是吗？</a></p>
+<p>老了快三十了<a href="javascript:alert('是的')">是吗？</a></p>
 </blockquote>
