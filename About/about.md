@@ -3,19 +3,16 @@
  <br/>
 <h2>bk7477890</h2>
  <br/>
- 姓名：张作裕
+ 姓名：zzy
  <br/>
-油腻中年老胖男人 <br/>
-//（2018年5月前）shiqiao#meili-inc.com(美丽联合集团-石乔) <br/>
-不法/bufa，@alibaba-inc @dingtalk<br/>
-信息安全领域 <br/>
+中年胖男人 <br/>
+<br/>201509~201805 #shiqiao @meili-inc.com<br/>
+<br/>201805~202001 #bufa @dingtalk.com<br/>
+<br/>202001~202205 #bufa @alibaba-inc.com<br/>
+<br/>202205~now #bufa @alihealth.cn<br/>
+#信息安全 #业务风控 #CRO <br/>
  <br/> <br/>
  微博：<a href="https://weibo.com/u/1251199521" target="_black" >@bre4k</a>
   <br/>
- 微信：和手机号码一样
- <br/>
- github：在首页上面有个链接，没有什么东西。
- <br/>
 <blockquote>
-<p>老了快三十了<a href="javascript:alert('是的')">是吗？</a></p>
 </blockquote>
